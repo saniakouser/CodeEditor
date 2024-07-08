@@ -58,7 +58,6 @@ Create a `.env` file in the project folder and pass the API key as: -
   </li>
   <br>
   
-![Devphilic](https://github.com/filza2112/Devphilic/assets/115334313/182cffd6-5b93-463b-ba43-b9514bc1c89e)
 
 <h3>Multiple User Connect:-</h3>
 <li>
@@ -66,8 +65,6 @@ Create a `.env` file in the project folder and pass the API key as: -
 </li>
 <li>All users in the room can code on the editor simultaneously</li>
 </ul>
-
-![dev](https://github.com/filza2112/Devphilic/assets/115334313/daa11dc2-80ca-4029-8944-580fd96dc352)
 
 <hr>
 <h2 align=center>Thank you</h2>
